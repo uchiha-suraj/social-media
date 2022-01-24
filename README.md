@@ -1,6 +1,6 @@
 # Social-Media
 
-## Key Features:
+## Important Features:
     1. Email and Password authentication using Firebase authentication.
     
     2. Login and Logout feature.
